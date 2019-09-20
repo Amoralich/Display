@@ -1,0 +1,49 @@
+*{
+font-family: 'Dancing Script', cursive;
+/*border: 2px solid skyblue;*/
+}
+
+.ul-inline{
+    background-color: gold;
+    width: 100%;
+}
+
+.ul-inline li{
+    display: inline;
+    background-color: red;
+}
+
+.ul-inline-block{
+
+    background-color: green;
+    width: 100%;
+}
+
+.ul-inline-block li {
+    display: inline-block;
+    background-color: aquamarine;
+    width: 15%;
+    padding: 15px;
+    text-align: center;
+}
+
+.ul-block{
+
+    background-color: black;
+    color: aliceblue;
+    width: 100%;
+}
+
+.ul-block li {
+    display: inline-block;
+    background-color: antiquewhite;
+    width: 50%;
+    padding: 15px;
+    text-align: center;
+    border: 2px solid salmon;
+}
+
+.ul-block-wrapper{
+    margin: 0 auto;
+    width: 100%;
+}
